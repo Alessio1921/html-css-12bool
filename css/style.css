@@ -1,5 +1,23 @@
-.col-xs-1{
-  height: 20px;
+.row{
+  color: white;
+}
+.box{
+  height: 40px;
   background-color: #006cfa;
-  border: solid white;
+  border: 1px solid white;
+  line-height: 40px;
+}
+.green{
+  background-color: #01e165;
+  border:1px solid #006cfa;
+}
+.special{
+  padding: 10px;
+  background-color: #006cfa;
+  border: 1px solid white;
+  margin-bottom: 25px;
+}
+.border{
+  border-bottom: 2px solid black;
+  padding-bottom:  5px;
 }
