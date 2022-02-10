@@ -1,0 +1,30 @@
+.container{
+  margin-top: 100px;
+}
+.box{
+  background-color: #d4bf5e;
+  height: 10px;
+}
+.box-red{
+  background-color: #b0172b;
+  height: 10px;
+}
+.superior{
+  border-top: 1px solid black;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.medium{
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+.medium-2{
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+.medium-left{
+  border-top-left-radius: 16px;
+}
+.medium-right{
+  border-top-right-radius: 16px;
+}
